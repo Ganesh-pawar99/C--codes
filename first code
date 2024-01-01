@@ -1,0 +1,59 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Linq.Expressions;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace basicC_
+{
+    internal class Program
+    {
+        private static object console;
+
+        static void Main(string[] args)
+        {
+
+            //Console.WriteLine(1000 + 3455);
+            Console.WriteLine("HELLO GANESH");
+            //   Console.ReadLine();
+            Console.WriteLine("hello user");
+            //Console.ReadLine();
+            //int b = 123;
+            //Console.WriteLine(b);
+            //Console.ReadLine() ;
+
+
+            Console.WriteLine("please enter a frist number");
+            int frist = int.Parse(Console.ReadLine());
+            Console.WriteLine("please enter a second number");
+            int second = int.Parse(Console.ReadLine());
+            Console.WriteLine("please inter operation : + or - or * or /");
+            char operation = char.Parse(Console.ReadLine());
+
+            switch (operation)
+            {
+                case '+':
+                    Console.WriteLine($"Addition{frist}+{second}={frist + second}");
+                    break;
+                case '-':
+                    Console.WriteLine($"substraction{frist}-{second}={frist - second}");
+                    break;
+                case '*':
+                    Console.WriteLine($"multiplication{frist}*{second}={frist * second}");
+                    break;
+                case '/':
+                    Console.WriteLine($"dividation{frist}/{second}={frist / second}");
+                    break;
+                default:
+                    Console.WriteLine($"Invalid Operation");
+                    break;
+            }
+            Console.WriteLine("Thank you visit again !!!!");
+            Console.Read();
+
+
+
+        }
+    }
+}
