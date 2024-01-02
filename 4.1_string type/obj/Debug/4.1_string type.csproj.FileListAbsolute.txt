@@ -1,0 +1,7 @@
+C:\c#b22\add project\basic\basicOfC#\4.1_string type\bin\Debug\4.1_string type.exe.config
+C:\c#b22\add project\basic\basicOfC#\4.1_string type\bin\Debug\4.1_string type.exe
+C:\c#b22\add project\basic\basicOfC#\4.1_string type\bin\Debug\4.1_string type.pdb
+C:\c#b22\add project\basic\basicOfC#\4.1_string type\obj\Debug\4.1_string type.csproj.AssemblyReference.cache
+C:\c#b22\add project\basic\basicOfC#\4.1_string type\obj\Debug\4.1_string type.csproj.CoreCompileInputs.cache
+C:\c#b22\add project\basic\basicOfC#\4.1_string type\obj\Debug\4.1_string type.exe
+C:\c#b22\add project\basic\basicOfC#\4.1_string type\obj\Debug\4.1_string type.pdb
