@@ -1,0 +1,7 @@
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\Inheritance\bin\Debug\Inheritance.exe.config
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\Inheritance\bin\Debug\Inheritance.exe
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\Inheritance\bin\Debug\Inheritance.pdb
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\Inheritance\obj\Debug\Inheritance.csproj.AssemblyReference.cache
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\Inheritance\obj\Debug\Inheritance.csproj.CoreCompileInputs.cache
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\Inheritance\obj\Debug\Inheritance.exe
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\Inheritance\obj\Debug\Inheritance.pdb
