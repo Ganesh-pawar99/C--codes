@@ -1,0 +1,7 @@
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\Inheritance Synario\bin\Debug\Inheritance Synario.exe.config
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\Inheritance Synario\bin\Debug\Inheritance Synario.exe
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\Inheritance Synario\bin\Debug\Inheritance Synario.pdb
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\Inheritance Synario\obj\Debug\Inheritance Synario.csproj.AssemblyReference.cache
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\Inheritance Synario\obj\Debug\Inheritance Synario.csproj.CoreCompileInputs.cache
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\Inheritance Synario\obj\Debug\Inheritance Synario.exe
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\Inheritance Synario\obj\Debug\Inheritance Synario.pdb
